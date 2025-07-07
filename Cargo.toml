@@ -1,0 +1,6 @@
+[package]
+name = "modified-ising-model-revised"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
